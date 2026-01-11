@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartBudget AI - Predicción y Optimización",
+  "description": "Una aplicación avanzada de gestión presupuestaria que utiliza IA para predecir gastos futuros y optimizar tus finanzas personales basándose en tu historial real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
